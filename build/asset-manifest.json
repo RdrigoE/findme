@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/findme/static/css/main.bbcc36ac.css",
+    "main.js": "/findme/static/js/main.a47b6208.js",
+    "index.html": "/findme/index.html",
+    "main.bbcc36ac.css.map": "/findme/static/css/main.bbcc36ac.css.map",
+    "main.a47b6208.js.map": "/findme/static/js/main.a47b6208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbcc36ac.css",
+    "static/js/main.a47b6208.js"
+  ]
+}
